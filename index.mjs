@@ -1,0 +1,1 @@
+export const sdk = require("ipfs-only-hash");

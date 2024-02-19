@@ -1,0 +1,13 @@
+{
+  "name": "la-ipfs-only-hash",
+  "version": "0.0.1",
+  "main": "index.mjs",
+  "scripts": {
+    "build": "bun run build.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.20.1",
+    "ipfs-only-hash": "^4.0.0"
+  }
+}
