@@ -14,3 +14,6 @@ bun run build
 ```
 
 Then, copy and paste the code from `./dist/bundle.js` and paste it to https://explorer.litprotocol.com/create-action to get the ipfs cid.
+
+eg. 
+https://explorer.litprotocol.com/actions/QmUjX8MW6StQ7NKNdaS6g4RMkvN5hcgtKmEi8Mca6oX4t3
